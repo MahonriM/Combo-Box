@@ -1,0 +1,42 @@
+C:\Users\FACPYA\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\FACPYA\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\FACPYA\Desktop\Calculadora\Calculadora\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\FACPYA\Desktop\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Form1.resources
+C:\Users\FACPYA\Desktop\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+C:\Users\FACPYA\Desktop\Calculadora\Calculadora\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\FACPYA\Desktop\Calculadora\Calculadora\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\FACPYA\Desktop\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+C:\Users\FACPYA\Desktop\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+C:\Users\FACPYA\Desktop\Calculadora\Calculadora\obj\x86\Debug\Calculadora.ejercicio13.resources
+C:\Users\FACPYA\Desktop\Calculadora\Calculadora\obj\x86\Debug\Calculadora.operaciones.resources
+C:\Users\FACPYA\Desktop\Calculadora\Calculadora\obj\x86\Debug\Calculadora.agregarlista.resources
+C:\Users\FACPYA\Desktop\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Combobox.resources
+C:\Users\FACPYA\Desktop\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Diassemana.resources
+C:\Users\Mahonri\Desktop\Facpya OMI LTI\3°Semestre\Tecnicas de programacion2\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Mahonri\Desktop\Facpya OMI LTI\3°Semestre\Tecnicas de programacion2\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Mahonri\Desktop\Facpya OMI LTI\3°Semestre\Tecnicas de programacion2\Calculadora\Calculadora\obj\x86\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\Mahonri\Desktop\Facpya OMI LTI\3°Semestre\Tecnicas de programacion2\Calculadora\Calculadora\obj\x86\Debug\Calculadora.agregarlista.resources
+C:\Users\Mahonri\Desktop\Facpya OMI LTI\3°Semestre\Tecnicas de programacion2\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Combobox.resources
+C:\Users\Mahonri\Desktop\Facpya OMI LTI\3°Semestre\Tecnicas de programacion2\Calculadora\Calculadora\obj\x86\Debug\Calculadora.ejercicio13.resources
+C:\Users\Mahonri\Desktop\Facpya OMI LTI\3°Semestre\Tecnicas de programacion2\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Form1.resources
+C:\Users\Mahonri\Desktop\Facpya OMI LTI\3°Semestre\Tecnicas de programacion2\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Diassemana.resources
+C:\Users\Mahonri\Desktop\Facpya OMI LTI\3°Semestre\Tecnicas de programacion2\Calculadora\Calculadora\obj\x86\Debug\Calculadora.operaciones.resources
+C:\Users\Mahonri\Desktop\Facpya OMI LTI\3°Semestre\Tecnicas de programacion2\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Mahonri\Desktop\Facpya OMI LTI\3°Semestre\Tecnicas de programacion2\Calculadora\Calculadora\obj\x86\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Mahonri\Desktop\Facpya OMI LTI\3°Semestre\Tecnicas de programacion2\Calculadora\Calculadora\obj\x86\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Mahonri\Desktop\Facpya OMI LTI\3°Semestre\Tecnicas de programacion2\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+C:\Users\Mahonri\Desktop\Facpya OMI LTI\3°Semestre\Tecnicas de programacion2\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+C:\Users\Mahonri\Desktop\Facpya OMI LTI\3°Semestre\Tecnicas de programacion2\Combo Box\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Mahonri\Desktop\Facpya OMI LTI\3°Semestre\Tecnicas de programacion2\Combo Box\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Mahonri\Desktop\Facpya OMI LTI\3°Semestre\Tecnicas de programacion2\Combo Box\Calculadora\obj\x86\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\Mahonri\Desktop\Facpya OMI LTI\3°Semestre\Tecnicas de programacion2\Combo Box\Calculadora\obj\x86\Debug\Calculadora.agregarlista.resources
+C:\Users\Mahonri\Desktop\Facpya OMI LTI\3°Semestre\Tecnicas de programacion2\Combo Box\Calculadora\obj\x86\Debug\Calculadora.Combobox.resources
+C:\Users\Mahonri\Desktop\Facpya OMI LTI\3°Semestre\Tecnicas de programacion2\Combo Box\Calculadora\obj\x86\Debug\Calculadora.ejercicio13.resources
+C:\Users\Mahonri\Desktop\Facpya OMI LTI\3°Semestre\Tecnicas de programacion2\Combo Box\Calculadora\obj\x86\Debug\Calculadora.Form1.resources
+C:\Users\Mahonri\Desktop\Facpya OMI LTI\3°Semestre\Tecnicas de programacion2\Combo Box\Calculadora\obj\x86\Debug\Calculadora.Diassemana.resources
+C:\Users\Mahonri\Desktop\Facpya OMI LTI\3°Semestre\Tecnicas de programacion2\Combo Box\Calculadora\obj\x86\Debug\Calculadora.operaciones.resources
+C:\Users\Mahonri\Desktop\Facpya OMI LTI\3°Semestre\Tecnicas de programacion2\Combo Box\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Mahonri\Desktop\Facpya OMI LTI\3°Semestre\Tecnicas de programacion2\Combo Box\Calculadora\obj\x86\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Mahonri\Desktop\Facpya OMI LTI\3°Semestre\Tecnicas de programacion2\Combo Box\Calculadora\obj\x86\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Mahonri\Desktop\Facpya OMI LTI\3°Semestre\Tecnicas de programacion2\Combo Box\Calculadora\obj\x86\Debug\Calculadora.exe
+C:\Users\Mahonri\Desktop\Facpya OMI LTI\3°Semestre\Tecnicas de programacion2\Combo Box\Calculadora\obj\x86\Debug\Calculadora.pdb

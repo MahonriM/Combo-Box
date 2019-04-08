@@ -1,0 +1,9 @@
+C:\Users\FACPYA\Desktop\Calculadora\Mensaje\bin\Debug\Mensaje.exe
+C:\Users\FACPYA\Desktop\Calculadora\Mensaje\bin\Debug\Mensaje.pdb
+C:\Users\FACPYA\Desktop\Calculadora\Mensaje\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\FACPYA\Desktop\Calculadora\Mensaje\obj\x86\Debug\Mensaje.Menu.resources
+C:\Users\FACPYA\Desktop\Calculadora\Mensaje\obj\x86\Debug\Mensaje.Properties.Resources.resources
+C:\Users\FACPYA\Desktop\Calculadora\Mensaje\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\FACPYA\Desktop\Calculadora\Mensaje\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\FACPYA\Desktop\Calculadora\Mensaje\obj\x86\Debug\Mensaje.exe
+C:\Users\FACPYA\Desktop\Calculadora\Mensaje\obj\x86\Debug\Mensaje.pdb

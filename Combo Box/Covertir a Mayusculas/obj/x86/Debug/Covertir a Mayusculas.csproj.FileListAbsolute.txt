@@ -1,0 +1,9 @@
+C:\Users\FACPYA\Desktop\Calculadora\Covertir a Mayusculas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\FACPYA\Desktop\Calculadora\Covertir a Mayusculas\obj\x86\Debug\Covertir_a_Mayusculas.Form1.resources
+C:\Users\FACPYA\Desktop\Calculadora\Covertir a Mayusculas\obj\x86\Debug\Covertir_a_Mayusculas.Properties.Resources.resources
+C:\Users\FACPYA\Desktop\Calculadora\Covertir a Mayusculas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\FACPYA\Desktop\Calculadora\Covertir a Mayusculas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\FACPYA\Desktop\Calculadora\Covertir a Mayusculas\bin\Debug\Covertir a Mayusculas.exe
+C:\Users\FACPYA\Desktop\Calculadora\Covertir a Mayusculas\bin\Debug\Covertir a Mayusculas.pdb
+C:\Users\FACPYA\Desktop\Calculadora\Covertir a Mayusculas\obj\x86\Debug\Covertir a Mayusculas.exe
+C:\Users\FACPYA\Desktop\Calculadora\Covertir a Mayusculas\obj\x86\Debug\Covertir a Mayusculas.pdb
